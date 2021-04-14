@@ -366,7 +366,7 @@
             "authorName": "Gary Gastelu",
             "authorUrl": "/person/g/gary-gastelu"
         },
-        "sentiment": ""
+        "sentiment": "neutral"
     },
     {
         "url": "https://www.foxnews.com/auto/elon-musk-tesla-semi-production",
@@ -375,7 +375,7 @@
             "authorName": "Gary Gastelu",
             "authorUrl": "/person/g/gary-gastelu"
         },
-        "sentiment": ""
+        "sentiment": "positive"
     },
     {
         "url": "https://www.foxnews.com/auto/tesla-model-3-best-selling-car-california",
@@ -384,7 +384,7 @@
             "authorName": "Gary Gastelu",
             "authorUrl": "/person/g/gary-gastelu"
         },
-        "sentiment": ""
+        "sentiment": "positive"
     },
     {
         "url": "https://www.foxnews.com/auto/tesla-smashes-overturned-truck-autopilot",
@@ -393,7 +393,7 @@
             "authorName": "Gary Gastelu",
             "authorUrl": "/person/g/gary-gastelu"
         },
-        "sentiment": ""
+        "sentiment": "negative"
     },
     {
         "url": "https://www.foxnews.com/opinion/success-space-persistence-dangers-newt-gingrich",
@@ -402,7 +402,7 @@
             "authorName": "Newt Gingrich",
             "authorUrl": "/person/g/newt-gingrich"
         },
-        "sentiment": ""
+        "sentiment": "neutral"
     },
     {
         "url": "https://www.foxnews.com/science/spacexs-first-astronaut-launch-breaking-ground",
@@ -411,7 +411,7 @@
             "authorName": "Stephanie Nolasco",
             "authorUrl": "/person/n/stephanie-nolasco"
         },
-        "sentiment": ""
+        "sentiment": "neutral"
     },
     {
         "url": "https://www.foxnews.com/media/ben-shapiro-elon-musk-red-pill-tweet",
@@ -420,7 +420,7 @@
             "authorName": "Yael Halon",
             "authorUrl": "/person/h/yael-halon"
         },
-        "sentiment": ""
+        "sentiment": "negative"
     },
     {
         "url": "https://www.foxnews.com/auto/tulsa-elon-musk-statue-tesla",
@@ -429,7 +429,7 @@
             "authorName": "Gary Gastelu",
             "authorUrl": "/person/g/gary-gastelu"
         },
-        "sentiment": ""
+        "sentiment": "positive"
     },
     {
         "url": "https://www.foxnews.com/media/ny-times-report-tesla-owners-elon-musks-red-pill",
@@ -438,7 +438,7 @@
             "authorName": " | Fox News",
             "authorUrl": "http://www.foxnews.com/"
         },
-        "sentiment": ""
+        "sentiment": "negative"
     },
     {
         "url": "https://www.foxnews.com/auto/elon-musk-tesla-worth-100000",
@@ -447,16 +447,16 @@
             "authorName": "Gary Gastelu",
             "authorUrl": "/person/g/gary-gastelu"
         },
-        "sentiment": ""
+        "sentiment": "positive"
     },
     {
         "url": "https://www.foxnews.com/tech/elon-musk-take-the-red-pill-tweet",
         "body": {
-            "body": "elon musk stirs the pot with cryptic 'red pill' tweet. get all the latest news on coronavirus and more delivered daily to your inbox. sign up here. tech billionaire elon musk, who has emerged as a champion of defying stay-at-home orders intended to stop the coronavirus from spreading, stirred the pot with a cryptic tweet sunday. \"take the red pill,\" the tesla ceo wrote to his 34 million followers. some followers saw it as a sign that musk was pushing for the conservative cause. adviser to the president and first daughter ivanka trump later retweeted it, adding the word: \"taken!\". \"take the red pill\" is a line from the popular 1999 movie \"the matrix\" about seeking the unvarnished truth: \"you take the blue pill, the story ends, you wake up in your bed and believe whatever you want to believe. you take the red pill, you stay in wonderland and i show you how deep the rabbit-hole goes.\". more recently, it's been slang for people abandoning the ways of liberalism for the values of conservatism. people of all ages and ethnicities posted online videos describing \"red pill moments\" - personal awakenings that have caused them to reject leftist narratives imbibed since childhood from friends, teachers, and the news and entertainment media. click here for full coronavirus coverage. musk has been vocally critical of government shutdown policies during the global pandemic recently, reopening tesla's california plant in defiance of local restrictions there last week. tesla's factory reopened monday with musk practically daring local law enforcement to arrest him. the plant apparently continued operations on tuesday. officials backed off wednesday and announced that the move would be okay, as long as the company followed previously agreed-upon worker safety precautions. tesla had a plan to maintain worker safety, including wearing gloves and masks, installing barriers between workers and maintaining social distancing, executives said. the company also reportedly agreed to check workers' temperatures before they entered the facility. tesla's workers have not had a union. musk, whose company had sued alameda county to try overturning the order, also threatened to move tesla's facility out of the state. the plant in fremont, a city of more than 230,000 people southeast of san francisco, had been closed since march 23. it has employed about 10,000 workers. . many public health experts have credited the stay-at-home orders with slowing the spread of novel coronavirus, helping hospitals handle the influx of cases. alameda county was among six san francisco bay area counties that were the first in the nation to impose stay-at-home orders in mid-march.",
+            "body": "elon musk stirs the pot with cryptic 'red pill' tweet. get all the latest news on coronavirus and more delivered daily to your inbox. tech billionaire elon musk, who has emerged as a champion of defying stay-at-home orders intended to stop the coronavirus from spreading, stirred the pot with a cryptic tweet sunday. \"take the red pill,\" the tesla ceo wrote to his 34 million followers. some followers saw it as a sign that musk was pushing for the conservative cause. adviser to the president and first daughter ivanka trump later retweeted it, adding the word: \"taken!\". \"take the red pill\" is a line from the popular 1999 movie \"the matrix\" about seeking the unvarnished truth: \"you take the blue pill, the story ends, you wake up in your bed and believe whatever you want to believe. you take the red pill, you stay in wonderland and i show you how deep the rabbit-hole goes.\". more recently, it's been slang for people abandoning the ways of liberalism for the values of conservatism. people of all ages and ethnicities posted online videos describing \"red pill moments\" - personal awakenings that have caused them to reject leftist narratives imbibed since childhood from friends, teachers, and the news and entertainment media. click here for full coronavirus coverage. musk has been vocally critical of government shutdown policies during the global pandemic recently, reopening tesla's california plant in defiance of local restrictions there last week. tesla's factory reopened monday with musk practically daring local law enforcement to arrest him. the plant apparently continued operations on tuesday. officials backed off wednesday and announced that the move would be okay, as long as the company followed previously agreed-upon worker safety precautions. tesla had a plan to maintain worker safety, including wearing gloves and masks, installing barriers between workers and maintaining social distancing, executives said. the company also reportedly agreed to check workers' temperatures before they entered the facility. tesla's workers have not had a union. musk, whose company had sued alameda county to try overturning the order, also threatened to move tesla's facility out of the state. the plant in fremont, a city of more than 230,000 people southeast of san francisco, had been closed since march 23. it has employed about 10,000 workers. . many public health experts have credited the stay-at-home orders with slowing the spread of novel coronavirus, helping hospitals handle the influx of cases. alameda county was among six san francisco bay area counties that were the first in the nation to impose stay-at-home orders in mid-march.",
             "authorName": "Frank Miles",
             "authorUrl": "/person/m/frank-miles"
         },
-        "sentiment": ""
+        "sentiment": "negative"
     },
     {
         "url": "https://www.foxnews.com/auto/elon-musk-homes-97-million",
@@ -465,7 +465,7 @@
             "authorName": " | New York Post",
             "authorUrl": "http://www.nypost.com/"
         },
-        "sentiment": ""
+        "sentiment": "negative"
     },
     {
         "url": "https://www.foxnews.com/media/elon-musk-barstool-sports-dave-portnoy-please-run-for-office",
