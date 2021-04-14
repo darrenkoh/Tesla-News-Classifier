@@ -6133,5 +6133,20 @@
         "isBreaking": false,
         "isLive": false,
         "duration": ""
+    },
+    {
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/348/196/new-cars.jpg?ve=1&tl=1",
+        "title": "5 vehicles you might not want to buy new (and 5 you do)",
+        "description": "Some cars hold their value a lot better than others after just 12 months of ownership, according to a new report from iseecars.com.",
+        "url": "/auto/5-cars-you-might-not-want-to-buy-new-and-5-you-do",
+        "publicationDate": "2021-04-06T14:27:51-04:00",
+        "lastPublishedDate": "2021-04-06T14:27:51-04:00",
+        "category": {
+            "name": "Maintenance",
+            "url": "/category/auto/attributes/maintenance"
+        },
+        "isBreaking": false,
+        "isLive": false,
+        "duration": ""
     }
 ]
