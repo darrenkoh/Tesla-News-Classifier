@@ -6148,5 +6148,35 @@
         "isBreaking": false,
         "isLive": false,
         "duration": ""
+    },
+    {
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/348/196/ram-cybertruck.jpg?ve=1&tl=1",
+        "title": "Tesla spotted testing Ram 1500 TRX high performance pickup at California factory",
+        "description": "A Ram 1500 TRX high performance pickup was spotted on the test track at Tesla's Fremont, Calif., factory complex. Tesla is planning to introduce the sporty Cybertruck later this year.",
+        "url": "/auto/tesla-testing-ram-1500-trx-pickup-factory",
+        "publicationDate": "2021-04-30T07:43:02-04:00",
+        "lastPublishedDate": "2021-04-30T07:43:02-04:00",
+        "category": {
+            "name": "Tesla",
+            "url": "/category/auto/make/tesla"
+        },
+        "isBreaking": false,
+        "isLive": false,
+        "duration": ""
+    },
+    {
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/348/196/consumer-reports-.jpg?ve=1&tl=1",
+        "title": "Consumer Reports test shows how Tesla's Autopilot can operate without anyone in the driver seat",
+        "description": "Consumer Reports has demonstrated a way to trick a Tesla into operating with its Autopilot system without anyone in the driver seat. The test comes in the wake of a fatal accident that claimed two lives in which no one was found in the driver's seat.",
+        "url": "/auto/consumer-reports-test-teslas-autopilot-no-driver",
+        "publicationDate": "2021-04-22T12:30:18-04:00",
+        "lastPublishedDate": "2021-04-22T12:30:18-04:00",
+        "category": {
+            "name": "Safety",
+            "url": "/category/auto/attributes/safety"
+        },
+        "isBreaking": false,
+        "isLive": false,
+        "duration": ""
     }
 ]
