@@ -6178,5 +6178,35 @@
         "isBreaking": false,
         "isLive": false,
         "duration": ""
+    },
+    {
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/348/196/musk-SNL.jpg?ve=1&tl=1",
+        "title": "Elon Musk hosts \u2018SNL,\u2019 jokes about space, cars, Mars, pot and Dogecoin during monologue",
+        "description": "Tesla and SpaceX CEO Elon Musk used most of his \u201cSaturday Night Live\u201d monologue this weekend explaining why he\u2019s controversial.",
+        "url": "/entertainment/elon-musk-hosts-snl-jokes-about-space-cars-mars-pot-and-dogecoin-during-monologue",
+        "publicationDate": "2021-05-09T01:19:00-04:00",
+        "lastPublishedDate": "2021-05-09T01:19:00-04:00",
+        "category": {
+            "name": "Elon Musk",
+            "url": "/category/person/elon-musk"
+        },
+        "isBreaking": false,
+        "isLive": false,
+        "duration": ""
+    },
+    {
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/348/196/Elon-Musk.jpg?ve=1&tl=1",
+        "title": "Elon Musk's first 'SNL' promo says he's 'a wild card'",
+        "description": "Tesla CEO Elon Musk admitted that he's \"a wild card\" in his first promo for this weekend's \"Saturday Night Live.\"",
+        "url": "/entertainment/elon-musk-first-snl-promo-wild-card",
+        "publicationDate": "2021-05-07T03:01:57-04:00",
+        "lastPublishedDate": "2021-05-07T03:01:57-04:00",
+        "category": {
+            "name": "Elon Musk",
+            "url": "/category/person/elon-musk"
+        },
+        "isBreaking": false,
+        "isLive": false,
+        "duration": ""
     }
 ]
